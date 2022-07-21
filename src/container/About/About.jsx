@@ -20,7 +20,7 @@ const About = () => {
     <>
       <h2 className="head-text">
         I Know that <span>Good Apps</span> <br />
-        means <span>Good Business</span>
+        mean <span>Good Business</span>
       </h2>
 
       <div className="app__profiles">
