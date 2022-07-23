@@ -23,7 +23,7 @@ import about02 from "../assets/about02.png";
 import about03 from "../assets/about03.png";
 import about04 from "../assets/about04.png";
 
-import profile from "../assets/me3.png";
+import profile from "../assets/me-removebg.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/Deaththekidd2.png";
 
@@ -35,6 +35,7 @@ import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 
+// eslint-disable-next-line
 export default {
   email,
   mobile,
